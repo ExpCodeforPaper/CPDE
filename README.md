@@ -1,5 +1,5 @@
 # CPDE
 
-This is the code of our paper : "Where to Locate Garages: Modeling Public Parking Demand with POI Distribution".
+This is the code of our paper: "Where to Locate Garages: Modeling Public Parking Demand with POI Distribution".
 
-See model for detais.
+See MATLAB scripts under model for detais.
